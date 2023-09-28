@@ -2,7 +2,7 @@
 
 Submitted by: Tu Dinh
 
-This web app: Displays one flashcard at a time with a front and back side mechanism. The next button will display a new random card showing the front side first.
+This web app: Displays one flashcard at a time with a front and back side mechanism. The next button will display a new random card showing the front side first. The theme is to guess the anime based off a bad description.
 
 Time spent: 5 hours spent in total
 
