@@ -1,34 +1,35 @@
-# Web Development Project 2 - Flashcards
+# Web Development Project 3 - FLashcards
 
 Submitted by: Tu Dinh
 
-This web app: Displays one flashcard at a time with a front and back side mechanism. The next button will display a new random card showing the front side first. The theme is to guess the anime based off a bad description.
+This web app: Is a part 2 of part 1's flash card with functionality: User input box, next/back sequence, visual signifier of correct/wrong guesses, and shuffling order of cards.
 
-Time spent: 5 hours spent in total
+Time spent: 10 hours spent in total (including part 1)
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [x] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [x] **A list of card pairs is created**
-- [x] **Clicking on the card shows the corresponding component of the information pair**
-- [x] **Clicking the next button displays a random new card**
+- [x] **The user can enter their guess in a box before seeing the flipside of the card**
+- [x] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [x] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [x] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
-- [x] Cards contains images in addition to or in place of text
-- [x] Cards have different visual styles such as color based on their category
-  - [x] Genre: Shonen/Shojo/Seinen/Josei
+- [x] A shuffle button is used to randomize the order of the cards
+- [x] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [x] A counter displays the user's current and longest streak of correct responses
+- [x] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
 The following **additional** features are implemented:
 
-* [x] Flip animation cue
+* [x] Added a "Decks completed" visual to show users they have mastered all the cards
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented user stories:
+
 ## Part 1:
 ![walkthrough](https://github.com/dinh2644/web102-flashcards/assets/82007933/fc3545c5-533f-486e-bf0a-aa363ddafcc2)
 
@@ -39,12 +40,17 @@ Here's a walkthrough of implemented required features:
   <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/740b33ec9b154b2f84839fc709def2dd-with-play.gif">
 </a>
 
-
-GIF created with ScreenToGif 
+GIF created with ScreenToGif, Video created with Loom 
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Trying to implement the stretch features especially the mastered cards and shuffling button to change order of JSON objects.
 
 ## License
 
