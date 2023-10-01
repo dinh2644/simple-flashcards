@@ -48,6 +48,7 @@ body::-webkit-scrollbar{
 .btn{
   background: none;
   font-size: 50px;
+  border: none;
 }
 
 .legend{
@@ -65,4 +66,19 @@ body::-webkit-scrollbar{
 .images {
   max-width: 100px;
  
+}
+
+.inputRow{
+  width:39rem;
+  align-items: center;
+  text-align: end;
+}
+
+.inputRow .col button{
+  background: none;
+  border: none;
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

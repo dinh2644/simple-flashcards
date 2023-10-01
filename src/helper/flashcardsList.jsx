@@ -35,8 +35,7 @@ export const flashcardsList = [
     type: "shonen",
   },
   {
-    front:
-      "Goes on a date and almost gets devoured but becomes a half-demon anyway.",
+    front:"Goes on a date and almost gets devoured but becomes a half-demon anyway.",
     back: "Tokyo Ghoul",
     image: TokyoGhoul,
     type: "seinen",
