@@ -2,7 +2,7 @@
 
 Submitted by: Tu Dinh
 
-This web app: Is a part 2 of part 1's flash card with functionality: User input box, next/back sequence, visual signifier of correct/wrong guesses, and shuffling order of cards.
+This web app: Is a part 2 of part 1's flash card with additional functionalities: User input box, next/back sequence, visual signifier of correct/wrong guesses, and shuffling order of cards.
 
 Time spent: 10 hours spent in total (including part 1)
 
