@@ -29,15 +29,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-Part 1:
+## Part 1:
 ![walkthrough](https://github.com/dinh2644/web102-flashcards/assets/82007933/fc3545c5-533f-486e-bf0a-aa363ddafcc2)
 
-Part2:
-    <a href="https://www.loom.com/share/740b33ec9b154b2f84839fc709def2dd">
-    </a>
-    <a href="https://www.loom.com/share/740b33ec9b154b2f84839fc709def2dd">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/740b33ec9b154b2f84839fc709def2dd-with-play.gif">
-    </a>
+## Part2:
+<a href="https://www.loom.com/share/740b33ec9b154b2f84839fc709def2dd">
+</a>
+<a href="https://www.loom.com/share/740b33ec9b154b2f84839fc709def2dd">
+  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/740b33ec9b154b2f84839fc709def2dd-with-play.gif">
+</a>
 
 
 GIF created with ScreenToGif 
