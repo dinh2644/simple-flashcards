@@ -50,7 +50,7 @@ GIF created with ScreenToGif, Video created with Loom
 
 Describe any challenges encountered while building the app.
 
-Trying to implement the stretch features especially the mastered cards and shuffling button to change order of JSON objects.
+Trying to implement the stretch features especially the mastered cards and shuffling button to change order of JSON objects was pretty difficult. I had to revisit the concept of spread operators in order to remove cards and map new/older cards to a list. The shuffling functionality required me to look up the "Fisher-Yates shuffle algorithm" in order to actually change the order of JSON objects instead of displaying a random card visually.
 
 ## License
 
